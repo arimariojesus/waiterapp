@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:arimariojesus/waiterapp-api.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:arimariojesus/waiterapp-ui.git
