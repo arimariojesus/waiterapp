@@ -4,3 +4,6 @@
 [submodule "ui"]
 	path = ui
 	url = git@github.com:arimariojesus/waiterapp-ui.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:arimariojesus/waiterapp-mobile.git
