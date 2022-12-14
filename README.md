@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/arimariojesus/waiterapp-api?style=flat-square" />
-  <img alt="GitHub License" src="https://img.shields.io/github/license/arimariojesus/waiterapp-api?style=flat-square" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/arimariojesus/waiterapp?style=flat-square" />
+  <img alt="GitHub License" src="https://img.shields.io/github/license/arimariojesus/waiterapp?style=flat-square" />
 </p>
 
 ### Project
